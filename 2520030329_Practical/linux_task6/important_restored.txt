@@ -1,0 +1,10 @@
+Line 1: Important project information
+Line 2: Linux file management
+Line 3: Backup testing
+Line 4: File restoration
+Line 5: Operating systems practice
+Line 6: Permission management
+Line 7: Copy operations
+Line 8: Restore operations
+Line 9: OSSP practical work
+Line 10: Task completed successfully

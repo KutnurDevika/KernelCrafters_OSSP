@@ -1,0 +1,2 @@
+This file is used to test Linux permissions.
+Write permission restored.
